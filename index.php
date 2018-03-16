@@ -5,7 +5,17 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//dj code solution here..........
 	
+	//213424234324324
+	//32434243243243244
+///324324234324324234234324234
+//324432
+
+	13424234324324
+	//32434243243243244
+	///324324234324324234234324234
+	//324432
 }
 // delete condition
 
